@@ -4,7 +4,7 @@ This repository is to reproduce a bug in the Crystal compiler.
 
 To build and see the bug run
 
-``
+```
 shards build statbus
 ```
 
