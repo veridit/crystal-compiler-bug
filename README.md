@@ -162,3 +162,11 @@ diff src/statbus.cr src/statbus-without-crystal-bug.cr
 ---
 >             STDOUT.puts output if @debug && !output.empty?
 ```
+
+And `crystal --version` gives
+```
+Crystal 1.15.0 (2025-01-10)
+
+LLVM: 19.1.6
+Default target: aarch64-apple-darwin24.1.0
+```
