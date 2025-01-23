@@ -1,0 +1,30 @@
+version: 2.0
+shards:
+  bindata:
+    git: https://github.com/spider-gazelle/bindata.git
+    version: 2.1.0
+
+  commander:
+    git: https://github.com/mrrooijen/commander.git
+    version: 0.4.0
+
+  db:
+    git: https://github.com/crystal-lang/crystal-db.git
+    version: 0.12.0
+
+  jwt:
+    git: https://github.com/crystal-community/jwt.git
+    version: 1.6.1
+
+  openssl_ext:
+    git: https://github.com/spider-gazelle/openssl_ext.git
+    version: 2.4.4
+
+  pg:
+    git: https://github.com/17dec/crystal-pg.git
+    version: 0.27.0+git.commit.ed26146a226f31acf77c1949dea6d3e7c6b5674e
+
+  poncho:
+    git: https://github.com/icyleaf/poncho.git
+    version: 0.4.0+git.commit.f9e29066cfc1a7521de45fb5f7d97659dd4357ff
+
